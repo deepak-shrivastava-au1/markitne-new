@@ -1,0 +1,131 @@
+
+---Downloaded files---
+The import files for: Demo 2 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/themes/xamin/inc/demo/demo-2/xamin-content.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/themes/xamin/inc/demo/demo-2/xamin-widget.wie
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/themes/xamin/inc/demo/demo-2/xamin-export.dat
+Redux files:
+xamin_options -> C:\xampp\htdocs\wordpress/wp-content/themes/xamin/inc/demo/demo-2/xamin_redux.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "5" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "5" (Media)
+[WARNING] Failed to import "admin": Invalid post type mt_pp
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "5" (Media)
+[WARNING] Failed to import "admin": Invalid post type mt_pp
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "5" (Media)
+[WARNING] Failed to import "admin": Invalid post type mt_pp
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "5" (Media)
+[WARNING] Failed to import "admin": Invalid post type mt_pp
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "5" (Media)
+[WARNING] Failed to import "admin": Invalid post type mt_pp
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "5" (Media)
+[WARNING] Failed to import "admin": Invalid post type mt_pp
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "5" (Media)
+[WARNING] Failed to import "admin": Invalid post type mt_pp
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Xamin Testimonail - No Title - Imported
+Xamin Recent Post - No Title - Imported
+Categories - No Title - Imported
+
+Page Sidebar : 
+
+Navigation Menu - No Title - Imported
+Xamin Testimonail - No Title - Imported
+Xamin PDF - Downloads - Imported
+Xamin PDF - No Title - Imported
+
+Footer Area 1 : 
+
+Text - No Title - Imported
+Text - No Title - Imported
+Xamin Social Media - No Title - Imported
+
+Footer Area 2 : 
+
+Navigation Menu - Menu - Imported
+
+Footer Area 3 : 
+
+Navigation Menu - About us - Imported
+
+Footer Area 4 : 
+
+Xamin Contact - Contact us - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: xamin_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
